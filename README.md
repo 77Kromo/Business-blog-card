@@ -1,16 +1,16 @@
 # Business Blog Card | devChallenges
 
 <div align="center">
-   Solution for a challenge from <a href="https://devchallenges.io/challenge/business-blog-card" target="_blank">devChallenges.io</a>.
+   Solution for a challenge from <a href="https://devchallenges.io" target="_blank">devChallenges.io</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://your-demo-link.com">
+    <a href="https://businessblog-card.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/your-username/business-blog-card">
+    <a href="https://github.com/77Kromo/Business-blog-card">
       Solution
     </a>
     <span> | </span>
@@ -29,7 +29,7 @@
 
 ## Overview
 
-[![Business Blog Card Screenshot](./thumbnail.jpg)](https://your-demo-link.com)
+[![Business Blog Card Screenshot](./thumbnail.jpg)](https://businessblog-card.netlify.app/)
 
 A responsive business blog card component created for the devChallenges "Business Blog Card" challenge. This clean, modern card features:
 - Hero image with decorative overlay
@@ -60,5 +60,5 @@ This project fulfills the following requirements:
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/your-username)
+- GitHub [@your-username](https://github.com/77Kromo)
 - Twitter [@your-twitter](https://twitter.com/your-twitter)
